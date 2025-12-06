@@ -1,0 +1,10 @@
+column_name,expected_dtype,required
+Liegenschaftsnr_Kunde,string,Y
+clientId,string,Y
+clientName,string,Y
+createdOn,timestamp,Y
+modifiedOn,timestamp,N
+status,string,Y
+area,string,N
+amount,double,N
+property_type,string,N

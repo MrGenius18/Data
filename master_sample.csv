@@ -1,0 +1,9 @@
+Liegenschaftsnr_Kunde,clientId,clientName,createdOn,modifiedOn,status,area,amount,property_type
+R001,C001,Client Alpha,2025-01-02T10:00:00,2025-02-10T08:30:00,Active,North,1200,Residential
+R002,C001,Client Alpha,2025-01-10T11:15:00,2025-02-12T09:10:00,Active,East,1500,Commercial
+R003,C001,Client Alpha,2025-01-12T14:40:00,2025-02-15T10:45:00,Inactive,South,900,Residential
+R004,C002,Client Beta,2025-01-05T13:00:00,2025-02-10T11:50:00,Active,West,1000,Industrial
+R005,C002,Client Beta,2025-01-18T09:30:00,2025-02-16T13:05:00,Active,North,2200,Residential
+R006,C003,Client Gamma,2025-01-20T12:00:00,2025-02-18T15:15:00,Active,Central,1700,Commercial
+R007,C003,Client Gamma,2025-01-22T16:00:00,2025-02-19T16:30:00,Inactive,Central,800,Residential
+R008,C003,Client Gamma,2025-01-25T08:20:00,2025-02-21T09:05:00,Active,East,1450,Commercial
